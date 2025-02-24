@@ -1,0 +1,52 @@
+body{
+    background: #000;
+    color: #fff;
+}
+#input{
+    margin-left: 580px;
+}
+p{
+    text-align: center;
+}
+
+#myButton{
+    display: flex;
+    justify-content: center;
+}
+
+#myButton button{
+    background: aqua;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.myForm{
+    background-color: orange;
+    margin-top: 50px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 45vw;
+    box-sizing: border-box;
+    padding-left: 15px;
+    /* border: 2px solid yellow; */
+    box-shadow: 4px 4px 10px rgb(242, 243, 239);
+    border-radius: 10px;
+}
+
+.myForm input{
+    padding: 5px;
+}
+button{
+    width: 100px;
+    margin-left: 40px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.para{
+    color: white;
+}

@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+
+}
+
+td,th{
+    border: 2px solid rgb(47, 191, 52);
+    padding: 10px;
+    color: cornsilk;
+}
+
+caption{
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 10px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+th{
+    color: orange;
+}
